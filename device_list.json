@@ -1,0 +1,49 @@
+[
+  { 
+    "hostname": "sw1",
+    "ip": "172.16.1.54",
+    "username": "george",
+    "driver": "ios",
+    "platform": "switch" 
+  },
+
+  { 
+    "hostname": "sw2",
+    "ip": "172.16.1.55",
+    "username": "george",
+    "driver": "ios", 
+    "platform": "switch"
+  },
+
+  { 
+    "hostname": "sw3",
+    "ip": "172.16.1.56",
+    "username": "george",
+    "driver": "ios", 
+    "platform": "switch"
+  },
+
+  { 
+    "hostname": "sw4",
+    "ip": "172.16.1.57",
+    "username": "george",
+    "driver": "ios", 
+    "platform": "switch"
+  },
+
+  { 
+    "hostname": "sw5",
+    "ip": "172.16.1.58",
+    "username": "george",
+    "driver": "ios",
+    "platform": "switch" 
+  },
+
+  { 
+    "hostname": "sw6",
+    "ip": "172.16.1.59",
+    "username": "george",
+    "driver": "ios",
+    "platform": "switch"
+  }
+]

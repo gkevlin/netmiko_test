@@ -1,0 +1,9 @@
+[
+  { 
+    "vlanid": "25",
+    "name": "Test VLAN 25",
+    "root_bridge_pri": "sw1",
+    "root_bridge_sec": "sw2",
+    "switches": [ "sw1", "sw2", "sw3", "sw5" ] 
+  }
+]
